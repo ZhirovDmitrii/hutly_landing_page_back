@@ -9,5 +9,4 @@ public class HutlyApplication {
     public static void main(String[] args) {
         SpringApplication.run(HutlyApplication.class, args);
     }
-// test
 }
