@@ -1,0 +1,9 @@
+package hutly.comments_api.repository;
+
+import hutly.comments_api.entities.Comment;
+import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface CommentRepository extends MongoRepository<Comment, String> {
+}
