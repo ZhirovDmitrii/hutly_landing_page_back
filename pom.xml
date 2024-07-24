@@ -16,7 +16,7 @@
     <name>Hutly</name>
     <description>Hutly</description>
     <url/>
-    <packaging>war</packaging>
+<!--    <packaging>war</packaging>-->
 
     <licenses>
         <license/>
