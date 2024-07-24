@@ -12,7 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/contacts")
-@CrossOrigin(origins = "http://localhost:63342")
+@CrossOrigin(origins = "https://hutly-landing-page-back.onrender.com")
 public class ContactController {
     private final ContactService contactService;
     @Autowired

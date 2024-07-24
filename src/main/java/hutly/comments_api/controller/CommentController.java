@@ -14,7 +14,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/comments")
-@CrossOrigin(origins = "http://localhost:63342")
+@CrossOrigin(origins = "https://hutly-landing-page-back.onrender.com")
 public class CommentController {
     private final CommentService commentService;
 
