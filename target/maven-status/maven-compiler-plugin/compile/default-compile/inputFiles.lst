@@ -1,0 +1,16 @@
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\comments_api\controller\CommentController.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\comments_api\dto\CommentDTO.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\comments_api\entities\Comment.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\comments_api\repository\CommentRepository.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\comments_api\service\CommentService.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\comments_api\service\IComment.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\configurations\CORSConfiguration.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\contacts_api\controller\ContactController.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\contacts_api\dto\ContactDTO.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\contacts_api\entities\Contact.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\contacts_api\repository\ContactRepository.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\contacts_api\service\ContactService.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\contacts_api\service\IContact.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\exceptions\GlobalExceptionHandler.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\HutlyApplication.java
+C:\Users\zhiro\IdeaProjects\Hutly\src\main\java\hutly\ServletInitializer.java
